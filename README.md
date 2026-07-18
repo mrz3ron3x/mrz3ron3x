@@ -73,8 +73,6 @@ Considered code. Deliberate craft. Built for those who look twice.
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
 </div>
 
-> One-time setup needed — see `profile-3d.yml` below.
-
 <div align="center">
 <img src="./assets/divider.svg" width="60%" alt="" />
 </div>
