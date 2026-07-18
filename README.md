@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/Pakistan-0A0A0A?style=flat-square&logo=googlemaps&logoColor=C9A961" alt="Based in Pakistan" />
 </div>
 
+<div align="center">
+<img src="./assets/divider.svg" width="60%" alt="" />
+</div>
+
 ```bash
 $ whoami
 ZERONEX — front-end, web & tool developer
@@ -63,13 +67,17 @@ Considered code. Deliberate craft. Built for those who look twice.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrz3ron3x&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=C9A961&title_color=C9A961&line=C9A961&point=D9D4C7&area=true&area_color=C9A961" alt="ZERONEX's contribution activity graph" width="100%" />
 </div>
 
-## VI. Contribution Snake
+## VI. Contribution Calendar
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
 </div>
 
-> One-time setup needed — see `snake.yml` below.
+> One-time setup needed — see `profile-3d.yml` below.
+
+<div align="center">
+<img src="./assets/divider.svg" width="60%" alt="" />
+</div>
 
 ## VII. Connect
 
