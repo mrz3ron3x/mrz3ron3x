@@ -1,12 +1,5 @@
-<!--
-  ZERONEX — GitHub profile README
-  This repo must be named exactly like your GitHub username for it to show on your profile.
-  If your username isn't literally "ZERONEX", find/replace it below — it appears in the
-  typing banner and in the stats/streak/languages URLs.
-  Also swap in your real links in the "Connect" section near the bottom.
--->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=3500&pause=1000&color=C9A961&background=0A0A0A&center=true&vCenter=true&width=560&height=55&lines=ZERONEX;Front-End+Developer;Web+%26+Tool+Developer;NEX+AI+Founder;TEAM+ATHEX;root%40zeronex%3A~%24" alt="ZERONEX — Front-End Developer, Web and Tool Developer, Founder of NEX AI, Member of TEAM ATHEX" />
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=32&duration=3500&pause=1000&color=C9A961&background=0A0A0A&center=true&vCenter=true&width=680&height=72&lines=ZERONEX;Front-End+Developer;Web+%26+Tool+Developer;NEX+AI+Founder;TEAM+ATHEX;root%40zeronex%3A~%24" alt="ZERONEX — Front-End Developer, Web and Tool Developer, Founder of NEX AI, Member of TEAM ATHEX" />
 </div>
 
 <div align="center">
@@ -51,30 +44,30 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <table align="center">
 <tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=ZERONEX&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7&ring_color=C9A961" alt="ZERONEX's GitHub stats" /></td>
-<td><img src="https://streak-stats.demolab.com?user=ZERONEX&hide_border=true&background=0A0A0A&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=D9D4C7&currStreakNum=D9D4C7&sideNums=D9D4C7" alt="ZERONEX's GitHub streak" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=mrz3ron3x&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7&ring_color=C9A961" alt="ZERONEX's GitHub stats" /></td>
+<td><img src="https://streak-stats.demolab.com?user=mrz3ron3x&hide_border=true&background=0A0A0A&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=D9D4C7&currStreakNum=D9D4C7&sideNums=D9D4C7" alt="ZERONEX's GitHub streak" /></td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZERONEX&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrz3ron3x&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" />
 </p>
 
 ## V. Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C9A961)](https://linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=C9A961)](https://x.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=C9A961)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C9A961)](https://www.linkedin.com/in/mr-ahmii-441555407/)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=C9A961)](https://x.com/mrnex55)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=C9A961)](mailto:athexsociety@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square)](https://mrahmiiportfolio.edgeone.dev/)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ZERONEX&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mrz3ron3x&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
 <br/>
 <em>Considered code. Deliberate craft.</em>
 </div>
