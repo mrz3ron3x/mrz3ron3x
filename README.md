@@ -1,247 +1,80 @@
+<!--
+  ZERONEX — GitHub profile README
+  This repo must be named exactly like your GitHub username for it to show on your profile.
+  If your username isn't literally "ZERONEX", find/replace it below — it appears in the
+  typing banner and in the stats/streak/languages URLs.
+  Also swap in your real links in the "Connect" section near the bottom.
+-->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=3500&pause=1000&color=C9A961&background=0A0A0A&center=true&vCenter=true&width=560&height=55&lines=ZERONEX;Front-End+Developer;Web+%26+Tool+Developer;NEX+AI+Founder;TEAM+ATHEX;root%40zeronex%3A~%24" alt="ZERONEX — Front-End Developer, Web and Tool Developer, Founder of NEX AI, Member of TEAM ATHEX" />
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Front--End%20Developer-0A0A0A?style=flat-square" alt="Front-End Developer" />
+<img src="https://img.shields.io/badge/NEX%20AI%20Founder-0A0A0A?style=flat-square" alt="Founder, NEX AI" />
+<img src="https://img.shields.io/badge/Pakistan-0A0A0A?style=flat-square&logo=googlemaps&logoColor=C9A961" alt="Based in Pakistan" />
+</div>
+
+```bash
+$ whoami
+ZERONEX — front-end, web & tool developer
+
+$ cat mission.txt
+Considered code. Deliberate craft. Built for those who look twice.
+```
+
+## I. Identity
+
+|  |  |
+|---|---|
+| **Role** | Front-End · Web · Tool Developer |
+| **Founder** | NEX AI — an autonomous desktop agent |
+| **Collective** | TEAM ATHEX |
+| **Based in** | Pakistan |
+
+## II. Expertise
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,bash&theme=dark" alt="HTML, CSS, JavaScript, Node.js, Python, Bash" />
+</div>
+
+## III. Current Work
+
+|  |  |
+|---|---|
+| **Project** | NEX AI |
+| **Role** | Founder & Lead Developer |
+| **Category** | Autonomous Desktop Agent |
+| **Status** | In active development |
+
+## IV. Metrics
+
+<table align="center">
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=ZERONEX&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7&ring_color=C9A961" alt="ZERONEX's GitHub stats" /></td>
+<td><img src="https://streak-stats.demolab.com?user=ZERONEX&hide_border=true&background=0A0A0A&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=D9D4C7&currStreakNum=D9D4C7&sideNums=D9D4C7" alt="ZERONEX's GitHub streak" /></td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZERONEX&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" />
+</p>
+
+## V. Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a1128,100:000000&height=150&width=100" width="100%"/>
-
-<br/>
-
-# Z E R O N E X
-
-<sub>F O U N D E R &nbsp;·&nbsp; N E X &nbsp;A I</sub>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=3600&pause=1400&color=E6E6E6&center=true&vCenter=true&width=700&lines=Building+intelligent+systems%2C+developer+tools%2C;and+refined+digital+experiences." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-000000?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/ROLE-AI%20SYSTEMS%20BUILDER-000000?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/TEAM-ATHEX-000000?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&labelColor=1a1a1a" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C9A961)](https://linkedin.com/in/your-handle)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=C9A961)](https://x.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=C9A961)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square)](https://your-portfolio.com)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
+<img src="https://komarev.com/ghpvc/?username=ZERONEX&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
 <br/>
-
-## Ⅰ · Overview
-
-I'm a developer from **Pakistan**, working across web development, developer tooling, and AI-driven software. My focus sits at the intersection of refined interfaces and systems that quietly do the work in the background — automation, intelligent agents, and tools built for real workflows rather than demos.
-
-I'm the founder of **NEX AI**, an evolving personal desktop AI agent designed to connect intelligence with the operating system, tools, workflows, and everyday computing. Alongside that, I build modern web experiences, developer utilities, and experimental intelligent systems.
-
-I'm also a member of **TEAM ATHEX**, a technical team I collaborate with on tools and projects.
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-## Ⅱ · Nex AI
-
-<div align="center">
-
-<sub>S Y S T E M &nbsp; A R C H I T E C T U R E</sub>
-
-<pre>
-                         ┌────────────────────┐
-                         │        USER        │
-                         └─────────┬──────────┘
-                                   │
-                         ┌─────────▼──────────┐
-                         │     INTELLIGENCE    │
-                         └─────────┬──────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-     ┌────────▼───────┐  ┌─────────▼────────┐ ┌─────────▼────────┐
-     │      MEMORY      │  │       TOOLS       │  │      DESKTOP      │
-     └────────┬───────┘  └─────────┬────────┘ └─────────┬────────┘
-              │                    │                    │
-                         ┌─────────▼──────────┐
-                         │     NEX AI CORE     │
-                         └────────────────────┘
-</pre>
-
-<sub>NEX AI — Modular Intelligence Core</sub>
-
-</div>
-
-**NEX AI** is an evolving personal desktop AI agent — not a simple chatbot. It's built as a modular system that grows over time, layering memory, tool execution, and desktop-level interaction beneath a single intelligent core.
-
-<div align="center">
-
-| Capability | Description | Status |
-|:--|:--|:--:|
-| Desktop Interaction | Interfacing with the OS to observe and act on desktop context | ◐ In development |
-| Tool Execution | Running and orchestrating tools on behalf of the user | ◐ In development |
-| Workflow Automation | Automating repetitive, multi-step tasks | ◐ In development |
-| Persistent Memory | Long-term context retention across sessions | ◐ In development |
-| Text Interaction | Conversational interface for control and queries | ● Active |
-| Voice Interaction | Voice-based control layer | ○ Planned |
-| Developer Assistance | Assisting with code, debugging, and project tasks | ◐ In development |
-| Modular Architecture | Pluggable subsystems for extending capability | ◐ In development |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-## Ⅲ · Technology
-
-<div align="center">
-
-<sub>F R O N T E N D</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00E5FF" />
-
-<br/><br/>
-
-<sub>B A C K E N D &nbsp; &amp; &nbsp; R U N T I M E</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
-
-<br/><br/>
-
-<sub>S Y S T E M S</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Shell-000000?style=flat-square&logo=gnubash&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00E5FF" />
-
-<br/><br/>
-
-<sub>A I &nbsp; &amp; &nbsp; A U T O M A T I O N</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square&logo=openai&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Automation-000000?style=flat-square&logo=zapier&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Desktop%20Intelligence-000000?style=flat-square&logo=windowsterminal&logoColor=D4AF37" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-## Ⅳ · Philosophy
-
-<div align="center">
-
-> *Build systems, not just interfaces.*
->
-> <sub>— ZERONEX</sub>
-
-</div>
-
-Interfaces are what people see — systems are what make software useful. I focus on building tools with real logic underneath: software that automates, remembers, and assists, rather than software that only displays information. Design matters, but only once it sits on top of something that genuinely works.
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-## Ⅴ · Team Athex
-
-<div align="center">
-
-**Member of TEAM ATHEX**
-
-A technical team focused on building tools, projects, and systems collaboratively.
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-## Ⅵ · Currently Building
-
-- **NEX AI** — personal desktop AI agent
-- Intelligent desktop automation
-- Developer tools
-- AI-powered systems
-- Modern web experiences
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-## Ⅶ · GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZERONEX&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=00E5FF&text_color=E6E6E6" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZERONEX&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E6E6E6" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERONEX&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=D4AF37&currStreakLabel=D4AF37" height="165"/>
-
-<sub>Replace <code>ZERONEX</code> above with your actual GitHub username for the stats cards to render correctly.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:D4AF37,100:E5484D&height=2&width=100" width="55%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<pre>
-SYSTEM STATUS   ·  BUILDING
-NEX CORE        ·  EVOLVING
-LOCATION        ·  PAKISTAN
-</pre>
-
-<sub>Designed &amp; engineered by ZERONEX</sub>
-<br/>
-<sub>Pakistan &nbsp;·&nbsp; Team Athex &nbsp;·&nbsp; Nex AI</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a1128,100:000000&height=90&width=100" width="100%"/>
-
+<em>Considered code. Deliberate craft.</em>
 </div>
