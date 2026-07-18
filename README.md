@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a140f,100:0A0A0A&height=120&section=header&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=32&duration=3500&pause=1000&color=C9A961&background=0A0A0A&center=true&vCenter=true&width=680&height=72&lines=ZERONEX;Front-End+Developer;Web+%26+Tool+Developer;NEX+AI+Founder;TEAM+ATHEX;root%40zeronex%3A~%24" alt="ZERONEX — Front-End Developer, Web and Tool Developer, Founder of NEX AI, Member of TEAM ATHEX" />
 </div>
 
@@ -53,7 +57,21 @@ Considered code. Deliberate craft. Built for those who look twice.
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrz3ron3x&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" />
 </p>
 
-## V. Connect
+## V. Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrz3ron3x&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=C9A961&title_color=C9A961&line=C9A961&point=D9D4C7&area=true&area_color=C9A961" alt="ZERONEX's contribution activity graph" width="100%" />
+</div>
+
+## VI. Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+</div>
+
+> One-time setup needed — see `snake.yml` below.
+
+## VII. Connect
 
 <div align="center">
 
@@ -64,10 +82,10 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 </div>
 
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mrz3ron3x&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
 <br/>
 <em>Considered code. Deliberate craft.</em>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a140f,100:0A0A0A&height=100&section=footer&animation=fadeIn&reversal=true" width="100%"/>
