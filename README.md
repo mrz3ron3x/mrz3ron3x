@@ -89,7 +89,7 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <div align="center">
   <a href="https://ahmiilabs.netlify.app/">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:2a2013,100:0A0A0A&height=150&text=AHMII%20LABS&fontSize=50&fontColor=C9A961&fontAlignY=42&desc=AI%20%C2%B7%20Web%20%C2%B7%20Software%20Studio&descSize=18&descAlignY=68&stroke=C9A961&strokeWidth=1" width="100%" alt="AHMII LABS — AI, Web and Software Studio" />
+    <img src="./assets/ahmii-labs.svg" width="100%" alt="AHMII LABS — AI, Web and Software Studio" />
   </a>
 </div>
 
@@ -105,11 +105,7 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <div align="center">
 
-| **Web Development** | **AI Development** | **SaaS Development** |
-|:---|:---|:---|
-| Business websites<br/>Landing pages<br/>Portfolio websites<br/>Dashboards & web apps<br/>E-commerce<br/>Responsive & SEO-ready | Custom AI assistants<br/>AI chatbots<br/>AI automation<br/>LLM integration<br/>AI APIs<br/>Prompt engineering | Subscription platforms<br/>Cloud software<br/>Business dashboards<br/>CRM systems<br/>Management systems<br/>Custom SaaS |
-| **Developer Tools** | **Cybersecurity** | **Automation** |
-| Developer utilities<br/>CLI tools<br/>Automation tools<br/>Workflow optimization<br/>Open-source projects | Linux security toolkits<br/>Security automation<br/>Security research<br/>Testing utilities<br/>Ethical penetration testing<br/>Defensive solutions | Workflows that run themselves<br/>AI-driven automation<br/>Business process systems<br/>Custom assistants |
+<img src="./assets/ahmii-services.svg" width="100%" alt="AHMII LABS services — Web Development: business websites, landing pages, portfolios, dashboards, e-commerce, SEO-ready. AI Development: custom assistants, chatbots, automation, LLM integration, AI APIs, prompt engineering. SaaS Development: subscription platforms, cloud software, dashboards, CRM, management systems. Developer Tools: utilities, CLI tools, automation, open-source. Cybersecurity: Linux security toolkits, security automation and research, testing utilities, ethical penetration testing, defensive solutions. Automation: self-running workflows, AI-driven automation, business process systems, custom assistants." />
 
 </div>
 
@@ -122,13 +118,7 @@ Considered code. Deliberate craft. Built for those who look twice.
 <br/>
 <div align="center">
 
-| **Modern UI** | **Fast Performance** | **Scalable Architecture** | **AI Integration** |
-|:---:|:---:|:---:|:---:|
-| Interfaces that feel alive | Quick loads, everywhere | Built to grow | Intelligence in every layer |
-
-| **Clean Code** | **Responsive Design** | **Security First** | **Innovation Driven** |
-|:---:|:---:|:---:|:---:|
-| Readable, maintainable | Flawless on every screen | Hardened by default | Always pushing forward |
+<img src="./assets/ahmii-pillars.svg" width="100%" alt="Why teams choose AHMII LABS — modern UI, fast performance, scalable architecture, AI integration, clean code, responsive design, security first, innovation driven" />
 
 </div>
 </details>
@@ -147,7 +137,7 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <div align="center">
   <a href="https://ahmiilabs.netlify.app/#nexai">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:2a2013,100:0A0A0A&height=170&text=NEX%20AI&fontSize=58&fontColor=C9A961&fontAlignY=38&desc=Flagship%20product%20of%20AHMII%20LABS&descSize=19&descAlignY=64&stroke=C9A961&strokeWidth=1" width="100%" alt="NEX AI — flagship product of AHMII LABS" />
+    <img src="./assets/nex-ai.svg" width="100%" alt="NEX AI — flagship product of AHMII LABS" />
   </a>
 </div>
 
@@ -160,21 +150,8 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <div align="center">
 
-| **AI Chat** | **Smart Search** | **Coding Assistant** | **Creative Writing** |
-|:---:|:---:|:---:|:---:|
-| Conversational help for everyday tasks | Find answers faster | Write, review and debug code | Drafts, copy and ideas |
-| **Automation** | **Image Generation** | **Voice Mode** | **Premium Interface** |
-| Workflows that run themselves | Visuals from a prompt | *Planned* | Designed to delight |
+<img src="./assets/nex-features.svg" width="100%" alt="NEX AI features — AI chat, smart search, coding assistant, creative writing, automation, image generation, voice mode (planned), premium interface. Project NEX AI, founder and lead developer, autonomous desktop agent, in active development." />
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT-NEX%20AI-C9A961?style=for-the-badge&labelColor=1a140f" alt="Project: NEX AI" /><br/>
-<img src="https://img.shields.io/badge/ROLE-Founder%20%26%20Lead%20Developer-C9A961?style=for-the-badge&labelColor=1a140f" alt="Role: Founder and Lead Developer" /><br/>
-<img src="https://img.shields.io/badge/CATEGORY-AI%20Assistant%20%C2%B7%20Autonomous%20Desktop%20Agent-C9A961?style=for-the-badge&labelColor=1a140f" alt="Category: AI assistant, autonomous desktop agent" /><br/>
-<img src="https://img.shields.io/badge/STATUS-In%20active%20development-C9A961?style=for-the-badge&labelColor=1a140f" alt="Status: In active development" />
 </div>
 
 <br/>
@@ -299,7 +276,7 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrz3ron3x&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=C9A961&title_color=C9A961&line=C9A961&point=D9D4C7&area=true&area_color=C9A961" alt="ZERONEX's contribution activity graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/activity-graph.svg" alt="ZERONEX's contribution activity graph" width="100%" />
 </div>
 
 <br/>
@@ -310,16 +287,12 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=IX.+Contribution+Calendar" alt="IX. Contribution Calendar" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=IX.+Contribution+Skyline" alt="IX. Contribution Skyline" />
 </h2>
 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake.svg" />
-    <img alt="Contribution calendar snake animation" src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/contribution-skyline.svg" alt="ZERONEX's contribution skyline — the last 12 months of activity" width="100%" />
 </div>
 
 <br/>
@@ -358,7 +331,7 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrz3ron3x&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
+  <img src="https://gitviews.com/user/mrz3ron3x.svg?style=for-the-badge&label=PROFILE%20VIEWS&label-color=%230A0A0A&color=%23C9A961" alt="Profile views" />
   <br/><br/>
   <em>Considered code. Deliberate craft.</em>
   <br/>
