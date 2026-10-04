@@ -1,0 +1,69 @@
+# ─────────────────────────────────────────────────────────────
+#  AHMII LABS · profile visuals
+#  Builds the gold contribution skyline + activity graph from your
+#  real GitHub data and publishes the SVGs to the `output` branch.
+#  Replaces the old snake.yml  (delete snake.yml!)
+# ─────────────────────────────────────────────────────────────
+name: Profile Visuals
+
+run-name: "Profile visuals · ${{ github.event_name }} · ${{ github.actor }}"
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # refresh every 6 hours
+  workflow_dispatch:           # run by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile.yml"
+      - "scripts/generate_profile.py"
+
+concurrency:
+  group: profile-visuals-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate SVGs
+        run: python3 scripts/generate_profile.py --user "${{ github.repository_owner }}" --out dist
+        env:
+          # optional: add a PAT named PROFILE_TOKEN (scope: read:user) to include private contributions
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Check the files were created
+        run: |
+          ls -lh dist
+          test -s dist/contribution-skyline.svg
+          test -s dist/activity-graph.svg
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: refresh profile visuals"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Job summary
+        if: success()
+        run: |
+          {
+            echo "### Profile visuals published"
+            echo ""
+            echo "| File | Branch |"
+            echo "|---|---|"
+            echo "| contribution-skyline.svg | output |"
+            echo "| activity-graph.svg | output |"
+          } >> "$GITHUB_STEP_SUMMARY"
