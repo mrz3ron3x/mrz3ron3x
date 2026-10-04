@@ -1,130 +1,126 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:2a2013,100:0A0A0A&height=250&section=header&text=ZERONEX&fontSize=88&fontColor=C9A961&fontAlignY=40&desc=Considered%20code.%20Deliberate%20craft.&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="ZERONEX — Considered code. Deliberate craft." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a140f,100:0A0A0A&height=120&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=26&duration=3000&pause=900&color=EBD9A0&background=0A0A0A&center=true&vCenter=true&width=720&height=60&lines=Full-Stack+Developer;Front-End+%26+Back-End;Web+%26+Tool+Developer;Founder+of+NEX+AI;Member+of+TEAM+ATHEX" alt="Full-Stack Developer, Front-End and Back-End, Web and Tool Developer, Founder of NEX AI, Member of TEAM ATHEX" />
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=32&duration=3500&pause=1000&color=C9A961&background=0A0A0A&center=true&vCenter=true&width=680&height=72&lines=ZERONEX;Front-End+Developer;Back-End+Developer;Web+%26+Tool+Developer;NEX+AI+Founder;TEAM+ATHEX;root%40zeronex%3A~%24" alt="ZERONEX — Front-End Developer, Back-End Developer, Web and Tool Developer, Founder of NEX AI, Member of TEAM ATHEX" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/ROLE-FULL--STACK-0A0A0A?style=for-the-badge&labelColor=1a140f&color=C9A961" alt="Role: Full-Stack" />
-<img src="https://img.shields.io/badge/FOUNDER-NEX%20AI-0A0A0A?style=for-the-badge&labelColor=1a140f&color=C9A961" alt="Founder: NEX AI" />
-<img src="https://img.shields.io/badge/COLLECTIVE-TEAM%20ATHEX-0A0A0A?style=for-the-badge&labelColor=1a140f&color=C9A961" alt="Collective: TEAM ATHEX" />
-<img src="https://img.shields.io/badge/BASE-PAKISTAN-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=C9A961&labelColor=1a140f&color=C9A961" alt="Base: Pakistan" />
+<img src="https://img.shields.io/badge/Front--End%20Developer-C9A961?style=for-the-badge" alt="Front-End Developer" />
+<img src="https://img.shields.io/badge/Back--End%20Developer-C9A961?style=for-the-badge" alt="Back-End Developer" />
+<img src="https://img.shields.io/badge/NEX%20AI%20Founder-C9A961?style=for-the-badge" alt="Founder, NEX AI" />
+<img src="https://img.shields.io/badge/Pakistan-C9A961?style=for-the-badge&logo=googlemaps&logoColor=0A0A0A" alt="Based in Pakistan" />
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+</div>
 
 ```bash
 $ whoami
-ZERONEX — full-stack developer · front-end, back-end & tools
-
-$ ls ~/stack
-frontend/   backend/   database/   devops/
+ZERONEX — front-end, back-end, web & tool developer
 
 $ cat mission.txt
 Considered code. Deliberate craft. Built for those who look twice.
 ```
 
+<br/>
+
+<h2 align="center">I. Identity</h2>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="70%" alt="" />
+<img src="https://img.shields.io/badge/ROLE-Front--End%20%C2%B7%20Back--End%20%C2%B7%20Web%20%C2%B7%20Tool%20Developer-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Role: Front-End, Back-End, Web, Tool Developer" /><br/>
+<img src="https://img.shields.io/badge/FOUNDER-NEX%20AI%20%E2%80%94%20an%20autonomous%20desktop%20agent-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Founder: NEX AI, an autonomous desktop agent" /><br/>
+<img src="https://img.shields.io/badge/COLLECTIVE-TEAM%20ATHEX-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Collective: TEAM ATHEX" /><br/>
+<img src="https://img.shields.io/badge/BASED%20IN-Pakistan-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Based in: Pakistan" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=I%20%20%C2%B7%20%20IDENTITY&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="I · Identity" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+</div>
+
+<h2 align="center">II. Expertise</h2>
 
 <div align="center">
-
-| **Role** | **Founder** | **Collective** | **Base** |
-|:---:|:---:|:---:|:---:|
-| Full-Stack · Web · Tools | NEX AI | TEAM ATHEX | Pakistan |
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,fastapi,postgres,mongodb,redis,docker,git,linux,bash&theme=dark&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Git, Linux, Bash" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=II%20%20%C2%B7%20%20APPROACH&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="II · Approach" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+</div>
+
+<h2 align="center">III. Current Work</h2>
 
 <div align="center">
-
-| **Front-End** | **Back-End** | **Tools** |
-|:---:|:---:|:---:|
-| *Interfaces with intent.*<br/>Fast, accessible, and considered down to the last pixel. | *APIs that hold up.*<br/>Clean data, clear contracts, and systems that keep running. | *Software that saves time.*<br/>Automation and utilities built to be used every single day. |
-
+<img src="https://img.shields.io/badge/PROJECT-NEX%20AI-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Project: NEX AI" /><br/>
+<img src="https://img.shields.io/badge/ROLE-Founder%20%26%20Lead%20Developer-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Role: Founder and Lead Developer" /><br/>
+<img src="https://img.shields.io/badge/CATEGORY-Autonomous%20Desktop%20Agent-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Category: Autonomous Desktop Agent" /><br/>
+<img src="https://img.shields.io/badge/STATUS-In%20active%20development-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Status: In active development" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=III%20%20%C2%B7%20%20STACK&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="III · Stack" />
-
 <div align="center">
-
-**Front-End**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Vite" />
-
-**Back-End**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql&theme=dark" alt="Node.js, Express, Python, FastAPI, GraphQL" />
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma&theme=dark" alt="PostgreSQL, MongoDB, Redis, SQLite, Prisma" />
-
-**Tooling**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,bash,vscode&theme=dark" alt="Git, GitHub, Docker, Nginx, Linux, Bash, VS Code" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
 </div>
 
-<br/>
+<h2 align="center">IV. Metrics</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=IV%20%20%C2%B7%20%20NOW&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="IV · Now" />
-
-<div align="center">
-<!-- TODO: wrap this banner in a link once NEX AI has a repo or page:
-<a href="https://github.com/mrz3ron3x/YOUR-NEX-AI-REPO"> ...img... </a> -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:2a2013,100:0A0A0A&height=170&text=NEX%20AI&fontSize=58&fontColor=C9A961&fontAlignY=38&desc=Autonomous%20Desktop%20Agent&descSize=20&descAlignY=64&stroke=C9A961&strokeWidth=1" width="100%" alt="NEX AI — Autonomous Desktop Agent" />
-<br/>
-<img src="https://img.shields.io/badge/STATUS-IN%20ACTIVE%20DEVELOPMENT-0A0A0A?style=for-the-badge&labelColor=1a140f&color=C9A961" alt="Status: in active development" />
-<img src="https://img.shields.io/badge/ROLE-FOUNDER%20%26%20LEAD%20DEV-0A0A0A?style=for-the-badge&labelColor=1a140f&color=C9A961" alt="Role: founder and lead developer" />
-</div>
-
-<!--
-  OPTIONAL — Selected Work. Uncomment once you have 2-3 repos to show.
-  Replace REPO_NAME with real repo names.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=%E2%97%86%20%20%C2%B7%20%20SELECTED%20WORK&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="Selected Work" />
-
-<div align="center">
-<a href="https://github.com/mrz3ron3x/REPO_NAME">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mrz3ron3x&repo=REPO_NAME&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7" alt="REPO_NAME" />
-</a>
-</div>
--->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=V%20%20%C2%B7%20%20ACTIVITY&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="V · Activity" />
-
-<details>
-<summary><b>GitHub stats, languages &amp; activity</b> &nbsp;(expand)</summary>
-<br/>
-<div align="center">
 <table align="center">
 <tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=mrz3ron3x&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7&ring_color=C9A961" alt="ZERONEX's GitHub stats" /></td>
-<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrz3ron3x&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=mrz3ron3x&show_icons=true&hide_border=false&border_color=C9A961&border_radius=12&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7&ring_color=C9A961" alt="ZERONEX's GitHub stats" /></td>
+<td><img src="https://streak-stats.demolab.com?user=mrz3ron3x&border=C9A961&border_radius=12&background=0A0A0A&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=D9D4C7&currStreakNum=D9D4C7&sideNums=D9D4C7" alt="ZERONEX's GitHub streak" /></td>
 </tr>
 </table>
-<img src="https://streak-stats.demolab.com?user=mrz3ron3x&hide_border=true&background=0A0A0A&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=D9D4C7&currStreakNum=D9D4C7&sideNums=D9D4C7" alt="ZERONEX's GitHub streak" />
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrz3ron3x&layout=compact&hide_border=false&border_color=C9A961&border_radius=12&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" />
+</p>
+
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+</div>
+
+<h2 align="center">V. Activity</h2>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrz3ron3x&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=C9A961&title_color=C9A961&line=C9A961&point=D9D4C7&area=true&area_color=C9A961" alt="ZERONEX's contribution activity graph" width="100%" />
 </div>
-</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a140f,100:0A0A0A&height=64&text=VI%20%20%C2%B7%20%20CONNECT&fontSize=24&fontColor=C9A961&fontAlign=14&stroke=C9A961&strokeWidth=1" width="100%" alt="VI · Connect" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+</div>
+
+<h2 align="center">VI. Contribution Calendar</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake.svg" />
+  <img alt="Contribution calendar snake animation" src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+</div>
+
+<h2 align="center">VII. Connect</h2>
 
 <div align="center">
 
@@ -138,11 +134,9 @@ Considered code. Deliberate craft. Built for those who look twice.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="70%" alt="" />
-<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=mrz3ron3x&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
-<br/><br/>
-<em>Front to back — considered code, deliberate craft.</em>
+<br/>
+<em>Considered code. Deliberate craft.</em>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:2a2013,100:0A0A0A&height=100&section=footer&animation=fadeIn&reversal=true" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a140f,100:0A0A0A&height=100&section=footer&animation=fadeIn&reversal=true" width="100%"/>
