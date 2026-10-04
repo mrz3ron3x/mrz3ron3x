@@ -44,7 +44,19 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <br/>
 
-## II. Stack
+## II. Approach
+
+<div align="center">
+
+| **Front-End** | **Back-End** | **Tools** |
+|:---:|:---:|:---:|
+| Interfaces with intent.<br/>Fast, accessible, considered. | APIs that hold up.<br/>Clean data, clear contracts. | Automation that saves time.<br/>Built to be used daily. |
+
+</div>
+
+<br/>
+
+## III. Stack
 
 <div align="center">
 
@@ -68,26 +80,26 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <br/>
 
-## III. Current Work
+## IV. Now
 
-<div align="center">
-
-| **Project** | **Role** | **Category** | **Status** |
-|:---:|:---:|:---:|:---:|
-| NEX AI | Founder & Lead Developer | Autonomous Desktop Agent | In active development |
-
-</div>
+```bash
+$ status --now
+building   →  NEX AI · autonomous desktop agent
+role       →  founder & lead developer
+focus      →  front-end ⇄ back-end, end to end
+state      →  in active development
+```
 
 <!--
-  TODO — make this section stronger. Add:
+  TODO — make NEX AI stand out. Add:
   1. A 2-line description of what NEX AI does
-  2. A screenshot or GIF:   <img src="./assets/nex-ai.png" width="80%" alt="NEX AI interface" />
+  2. A screenshot or GIF:  <img src="./assets/nex-ai.png" width="80%" alt="NEX AI interface" />
   3. A link to the repo / landing page
 -->
 
 <br/>
 
-## IV. Selected Work
+## V. Selected Work
 
 <!--
   TODO — pin 2-3 repos here. Replace REPO_NAME with your real repo names:
@@ -99,26 +111,31 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <br/>
 
-## V. Metrics
+## VI. Activity
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mrz3ron3x/mrz3ron3x/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+<br/>
+
+<details>
+<summary><b>Metrics</b> &nbsp;·&nbsp; GitHub stats &amp; languages</summary>
+<br/>
+<div align="center">
 <table align="center">
 <tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=mrz3ron3x&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=D9D4C7&ring_color=C9A961" alt="ZERONEX's GitHub stats" /></td>
 <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrz3ron3x&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=D9D4C7" alt="ZERONEX's most used languages" /></td>
 </tr>
 </table>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=mrz3ron3x&hide_border=true&background=0A0A0A&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=D9D4C7&currStreakNum=D9D4C7&sideNums=D9D4C7" alt="ZERONEX's GitHub streak" />
 </div>
-
-<br/>
-
-## VI. Contribution Calendar
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
-</div>
+</details>
 
 <div align="center">
 <img src="./assets/divider.svg" width="60%" alt="" />
