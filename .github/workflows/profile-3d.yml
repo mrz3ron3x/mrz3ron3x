@@ -1,22 +1,41 @@
+# ─────────────────────────────────────────────────────────────
+#  AHMII LABS · profile snake
+#  Builds the gold contribution snake for the ZERONEX profile
+#  and publishes the SVGs to the `output` branch.
+# ─────────────────────────────────────────────────────────────
 name: Generate Snake
 
+run-name: "Snake · ${{ github.event_name }} · ${{ github.actor }}"
+
 on:
+  # refresh twice a day
   schedule:
     - cron: "0 */12 * * *"
+  # run it by hand from the Actions tab
   workflow_dispatch:
+  # rebuild whenever this workflow is edited
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+# one run at a time; a newer run replaces an older one
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
 
 jobs:
   generate:
+    name: Build and publish snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Generate snake SVGs
+      - name: Generate snake SVGs (gold on black / gold on ivory)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,10 +43,31 @@ jobs:
             dist/github-snake-dark.svg?color_snake=#C9A961&color_dots=#1a140f,#3a2f1c,#6b5a33,#a88c4a,#C9A961&color_empty=#14110d&color_dot_border=#0A0A0A
             dist/github-snake.svg?color_snake=#8a6d2b&color_dots=#f0ece0,#e0d3b0,#cdb677,#b39650,#8a6d2b&color_empty=#f6f4ee
 
-      - name: Push to output branch
+      - name: Check the files were created
+        run: |
+          ls -lh dist
+          test -s dist/github-snake-dark.svg
+          test -s dist/github-snake.svg
+
+      - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: refresh snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Job summary
+        if: success()
+        run: |
+          {
+            echo "### Snake published"
+            echo ""
+            echo "| File | Branch |"
+            echo "|---|---|"
+            echo "| github-snake-dark.svg | output |"
+            echo "| github-snake.svg | output |"
+            echo ""
+            echo "Raw link: https://raw.githubusercontent.com/${{ github.repository }}/output/github-snake-dark.svg"
+          } >> "$GITHUB_STEP_SUMMARY"
