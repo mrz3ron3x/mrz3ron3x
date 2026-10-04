@@ -1,29 +1,33 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Snake
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC — change to whatever time suits you
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=#C9A961&color_dots=#1a140f,#3a2f1c,#6b5a33,#a88c4a,#C9A961&color_empty=#14110d&color_dot_border=#0A0A0A
+            dist/github-snake.svg?color_snake=#8a6d2b&color_dots=#f0ece0,#e0d3b0,#cdb677,#b39650,#8a6d2b&color_empty=#f6f4ee
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git pull --rebase origin main
-            git push
-          fi
