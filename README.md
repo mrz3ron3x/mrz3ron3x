@@ -18,8 +18,9 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
+
 
 ```bash
 $ whoami
@@ -31,22 +32,32 @@ Considered code. Deliberate craft. Built for those who look twice.
 
 <br/>
 
-<h2 align="center">I. Identity</h2>
+<div align="center">
+<img src="./assets/divider.svg" width="60%" alt="" />
+</div>
+
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=I.+Identity" alt="I. Identity" />
+</h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/ROLE-Front--End%20%C2%B7%20Back--End%20%C2%B7%20Web%20%C2%B7%20Tool%20Developer-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Role: Front-End, Back-End, Web, Tool Developer" /><br/>
-<img src="https://img.shields.io/badge/FOUNDER-NEX%20AI%20%E2%80%94%20an%20autonomous%20desktop%20agent-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Founder: NEX AI, an autonomous desktop agent" /><br/>
-<img src="https://img.shields.io/badge/COLLECTIVE-TEAM%20ATHEX-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Collective: TEAM ATHEX" /><br/>
-<img src="https://img.shields.io/badge/BASED%20IN-Pakistan-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Based in: Pakistan" />
+<img src="https://img.shields.io/badge/ROLE-Front--End%20%C2%B7%20Back--End%20%C2%B7%20Web%20%C2%B7%20Tool%20Developer-C9A961?style=for-the-badge&labelColor=1a140f" alt="Role: Front-End, Back-End, Web, Tool Developer" /><br/>
+<img src="https://img.shields.io/badge/FOUNDER-NEX%20AI%20%E2%80%94%20an%20autonomous%20desktop%20agent-C9A961?style=for-the-badge&labelColor=1a140f" alt="Founder: NEX AI, an autonomous desktop agent" /><br/>
+<img src="https://img.shields.io/badge/COLLECTIVE-TEAM%20ATHEX-C9A961?style=for-the-badge&labelColor=1a140f" alt="Collective: TEAM ATHEX" /><br/>
+<img src="https://img.shields.io/badge/BASED%20IN-Pakistan-C9A961?style=for-the-badge&labelColor=1a140f" alt="Based in: Pakistan" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
 
-<h2 align="center">II. Expertise</h2>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=II.+Expertise" alt="II. Expertise" />
+</h2>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,fastapi,postgres,mongodb,redis,docker,git,linux,bash&theme=dark&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Git, Linux, Bash" />
@@ -55,25 +66,31 @@ Considered code. Deliberate craft. Built for those who look twice.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
 
-<h2 align="center">III. Current Work</h2>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=III.+Current+Work" alt="III. Current Work" />
+</h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/PROJECT-NEX%20AI-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Project: NEX AI" /><br/>
-<img src="https://img.shields.io/badge/ROLE-Founder%20%26%20Lead%20Developer-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Role: Founder and Lead Developer" /><br/>
-<img src="https://img.shields.io/badge/CATEGORY-Autonomous%20Desktop%20Agent-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Category: Autonomous Desktop Agent" /><br/>
-<img src="https://img.shields.io/badge/STATUS-In%20active%20development-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Status: In active development" />
+<img src="https://img.shields.io/badge/PROJECT-NEX%20AI-C9A961?style=for-the-badge&labelColor=1a140f" alt="Project: NEX AI" /><br/>
+<img src="https://img.shields.io/badge/ROLE-Founder%20%26%20Lead%20Developer-C9A961?style=for-the-badge&labelColor=1a140f" alt="Role: Founder and Lead Developer" /><br/>
+<img src="https://img.shields.io/badge/CATEGORY-Autonomous%20Desktop%20Agent-C9A961?style=for-the-badge&labelColor=1a140f" alt="Category: Autonomous Desktop Agent" /><br/>
+<img src="https://img.shields.io/badge/STATUS-In%20active%20development-C9A961?style=for-the-badge&labelColor=1a140f" alt="Status: In active development" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
 
-<h2 align="center">IV. Metrics</h2>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=IV.+Metrics" alt="IV. Metrics" />
+</h2>
 
 <table align="center">
 <tr>
@@ -89,10 +106,13 @@ Considered code. Deliberate craft. Built for those who look twice.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
 
-<h2 align="center">V. Activity</h2>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=V.+Activity" alt="V. Activity" />
+</h2>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrz3ron3x&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=C9A961&title_color=C9A961&line=C9A961&point=D9D4C7&area=true&area_color=C9A961" alt="ZERONEX's contribution activity graph" width="100%" />
@@ -101,10 +121,13 @@ Considered code. Deliberate craft. Built for those who look twice.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
 
-<h2 align="center">VI. Contribution Calendar</h2>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=VI.+Contribution+Calendar" alt="VI. Contribution Calendar" />
+</h2>
 
 <div align="center">
 <picture>
@@ -117,10 +140,13 @@ Considered code. Deliberate craft. Built for those who look twice.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A961,100:0A0A0A&height=2" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 </div>
 
-<h2 align="center">VII. Connect</h2>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=24&duration=2200&pause=1000&repeat=false&color=C9A961&background=00000000&center=true&vCenter=true&width=680&height=52&lines=VII.+Connect" alt="VII. Connect" />
+</h2>
 
 <div align="center">
 
@@ -132,6 +158,11 @@ Considered code. Deliberate craft. Built for those who look twice.
 </div>
 
 <br/>
+
+<div align="center">
+<img src="./assets/divider.svg" width="60%" alt="" />
+</div>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mrz3ron3x&style=flat-square&color=0A0A0A&label=PROFILE%20VIEWS" alt="Profile views" />
